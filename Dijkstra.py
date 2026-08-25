@@ -69,3 +69,5 @@ vertexlist = [node1, node2, node3]
 algorithm = Algorithm(node1)
 algorithm.calculateshortestpath(node1)
 algorithm.getshortestpath(node3)
+
+#This is a test
